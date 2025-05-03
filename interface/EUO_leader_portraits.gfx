@@ -1,0 +1,10 @@
+spriteTypes = {
+
+## GERMAN REICH
+
+	spriteType = {
+		name = "GFX_portrait_gerhard_frey"
+		texturefile = "gfx/leaders/GER/Portrait_GER_Gerhard_Frey.png"
+	}
+	
+}

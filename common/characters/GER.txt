@@ -1,0 +1,16 @@
+characters = {
+	GER_gerhard_frey = {
+		name = "Gerhard Frey" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_gerhard_frey
+			}
+		}
+		country_leader = {
+			ideology = national_socialism_subtype
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

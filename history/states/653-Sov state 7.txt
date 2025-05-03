@@ -1,0 +1,16 @@
+state={
+	id=653
+	name="STATE_653"
+	provinces={
+		307 1387 1543 1704 1750 1771 1808 1821 1841 1880 4209 4754 4813 4824 7228 7778 7846 9553 10133 10189 10648 10716 10720 12102 12567 12696 
+	}
+	
+	history={
+		owner = RKM
+	}
+	
+	manpower=2161650
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

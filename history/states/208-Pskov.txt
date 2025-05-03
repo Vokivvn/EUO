@@ -1,0 +1,16 @@
+state={
+	id=208
+	name="STATE_208"
+	provinces={
+		104 126 181 3120 6139 9097 9098 11032 11080 11139 11186 
+	}
+	
+	history={
+		owner = RKO
+	}
+	
+	manpower=341819
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

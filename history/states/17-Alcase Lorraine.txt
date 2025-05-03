@@ -1,0 +1,19 @@
+state={
+	id=17
+	name="STATE_17"
+	resources={
+		steel=28.000
+	}
+	
+	history={
+		owner = GER
+	}
+	
+	provinces={
+		521 641 680 698 817 3546 3560 3646 3650 3652 3666 5291 6531 6545 6668 6698 9472 9505 9642 9658 11488 11516 11642 
+	}
+	manpower=1517500
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

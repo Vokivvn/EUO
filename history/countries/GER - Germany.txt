@@ -1,0 +1,29 @@
+﻿capital = 64 # Berlin/Brandeburg
+
+oob = "GER_2010"
+
+set_politics = {
+	ruling_party = national_socialism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	national_socialism = 100
+}
+
+recruit_character = GER_gerhard_frey
+
+create_faction = Kontinentalpakt
+add_to_faction = GER
+add_to_faction = FRA
+add_to_faction = ENG
+
+set_autonomy = {
+	target = GEN
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+

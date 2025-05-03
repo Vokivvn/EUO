@@ -1,0 +1,16 @@
+state={
+	id=252
+	name="STATE_252"
+	provinces={
+		12 256 270 297 368 3224 3245 3261 3285 3349 3352 3383 6149 6327 6374 9291 9325 9358 9368 11275 11277 11324 11340 
+	}
+	
+	history={
+		owner = SOV
+	}
+	
+	manpower=3378176
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

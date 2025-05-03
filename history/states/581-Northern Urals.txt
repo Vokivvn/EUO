@@ -1,0 +1,15 @@
+state={
+	id=581
+	name="STATE_581"
+	resources={
+		chromium=40.000
+		aluminium=27.000
+	}
+	provinces={
+		1659 1744 3169 4710 4746 4774 4846 7733 7768 7796 7895 10551 10604 10677 11098 12393 12502 12630 12700 13076 
+	}
+	manpower=48831
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=239
+	name="STATE_239"
+	provinces={
+		433 578 3304 3426 3465 6328 6492 9326 9352 9460 9564 11408 11449 11551 
+	}
+	
+	history={
+		owner = SOV
+	}
+	
+	manpower=1226088
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=785
+	name="STATE_785"
+	resources={
+		steel=12.000
+		aluminium=4.000
+	}
+	provinces={
+		454 6585 9561 11420 
+	}
+	
+	history={
+		owner = FRA
+	}
+	
+	manpower=1580000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

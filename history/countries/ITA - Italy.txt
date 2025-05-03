@@ -1,0 +1,27 @@
+﻿capital = 2 # Rome
+
+oob = "ITA_2010"
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 100
+}
+
+recruit_character = ITA_guy
+
+create_faction = Salo_accord
+add_to_faction = ITA
+add_to_faction = ALB
+add_to_faction = CRO
+
+set_autonomy = {
+	target = ALB
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}

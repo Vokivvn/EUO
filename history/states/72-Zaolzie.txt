@@ -1,0 +1,16 @@
+state={
+	id=72
+	name="STATE_72"
+	provinces={
+		9412 9551 9567 13205 
+	}
+	
+	history={
+		owner = GER
+	}
+	
+	manpower=152000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=350
+	name="STATE_350"
+	provinces={
+		1549 1578 1606 1634 3942 4512 6883 7140 7671 9823 10882 11759 11871 12387 12416 12473 
+	}
+	
+	history={
+		owner = TUR
+	}
+	
+	manpower=571935
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

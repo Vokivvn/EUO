@@ -1,0 +1,15 @@
+state={
+	id=982
+	name="STATE_982"
+	provinces={
+		1013 3991 4018 4116 4150 7008 7132 10045 11923 12018 12020 12760 13074 
+	}
+	
+	history={
+		owner = SPR
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=222
+	name="STATE_222"
+	resources={
+		steel=40.000
+		chromium=8.000
+	}
+	provinces={
+		212 261 288 300 302 328 356 384 3199 3250 3291 3292 3306 3318 3335 3346 3364 3376 3390 6252 6315 6330 6355 6365 6386 6411 9261 9328 9355 9366 9384 9411 11214 11242 11283 11284 11310 11337 11368 
+	}
+	manpower=1218607
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
