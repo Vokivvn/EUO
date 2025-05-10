@@ -6,7 +6,7 @@ state={
 	}
 	
 	history={
-		owner = SOV
+		owner = UKR
 	}
 	
 	manpower=1226088

@@ -4,6 +4,11 @@ state={
 	provinces={
 		3221 3266 3360 3371 6248 6291 6329 6353 6382 6409 9258 9286 9324 9380 9409 11309 11335 
 	}
+	
+	history={
+		owner = UKR
+	}
+	
 	manpower=2342937
 	buildings_max_level_factor=1.000
 	state_category=town

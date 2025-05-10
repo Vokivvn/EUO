@@ -369,7 +369,7 @@ ICE = {
 }
 
 UKR = {
-	color = rgb { 0  80  230 }
+	color = rgb { 95 95 95 }
 	color_ui = rgb { 0  80  230 }	
 }
 
@@ -429,6 +429,41 @@ MAN = {
 ANG = {
 	color = rgb { 37 140 61 }
 	color_ui = rgb { 37 140 61 }
+}
+
+OST = {
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 138 155 116 }
+}
+
+GGN = {
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 138 155 116 }
+}
+
+MCW = {
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 138 155 116 }
+}
+
+KAU = {
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 138 155 116 }
+}
+
+BNT = {
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 138 155 116 }
+}
+
+GMS = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 138 155 116 }
+}
+
+FFR = {
+	color = rgb { 82 101 233 }
+	color_ui = rgb { 138 155 116 }
 }
 
 COG = {
@@ -923,6 +958,10 @@ YUC = {
 	color = rgb { 255 26 26 }
 	color_ui = rgb { 102 0 0 }
 }
+OST = {
+	color = rgb { 95 95 95 }
+	color_ui = rgb { 138 155 116 }
+}
 RIG = {
 	color = rgb { 0 0 128 }
 	color_ui = rgb { 0 0 51 }
@@ -983,31 +1022,11 @@ RKG = {
 	color = rgb { 115 115 115 }
 	color_ui = rgb { 122 145 93 }
 }
-RKU = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
-RKO = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
-RKK = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
 RKT = {
 	color = rgb { 115 115 115 }
 	color_ui = rgb { 122 145 93 }
 }
-RKM = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
 RKL = {
-	color = rgb { 115 115 115 }
-	color_ui = rgb { 122 145 93 }
-}
-GEN = {
 	color = rgb { 115 115 115 }
 	color_ui = rgb { 122 145 93 }
 }
@@ -1075,5 +1094,3 @@ KUB = {
 	color = rgb { 102 102 153 }
 	color_ui = rgb { 61 61 92 }
 }
-
-

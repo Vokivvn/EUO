@@ -4,6 +4,11 @@ state={
 	provinces={
 		1233 1292 1327 1775 4242 7285 9292 10170 10213 10542 12106 12157 12287 12584 
 	}
+	
+	history={
+		owner = MCW
+	}
+	
 	manpower=2074932
 	buildings_max_level_factor=1.000
 	state_category=town

@@ -21,9 +21,63 @@ add_to_faction = FRA
 add_to_faction = ENG
 
 set_autonomy = {
-	target = GEN
+	target = GGN
 	autonomous_state = autonomy_reichskommissariat
 	freedom_level = 0.2
 }
 
+set_autonomy = {
+	target = OST
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = UKR
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = MCW
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = KAU
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = UKR
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = NOR
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = BNT
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+
+set_autonomy = {
+	target = BRI
+	autonomous_state = autonomy_reichsprotectorate
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = SLO
+	autonomous_state = autonomy_reichsprotectorate
+	freedom_level = 0.2
+}
 

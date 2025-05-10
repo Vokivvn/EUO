@@ -2,8 +2,13 @@ state={
 	id=205
 	name="STATE_205"
 	provinces={
-		246 274 382 3263 3308 3335 3345 3377 11235 11300 11369 
+		246 274 382 3263 3308 3345 3377 11235 11300 11369 
 	}
+	
+	history={
+		owner = MCW
+	}
+	
 	manpower=1121004
 	buildings_max_level_factor=1.000
 	state_category=town

@@ -10,7 +10,7 @@ state={
 	}
 	
 	history={
-		owner = GEN
+		owner = GGN
 	}
 	
 	manpower=3692800

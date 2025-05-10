@@ -6,7 +6,7 @@ state={
 	}
 	
 	history={
-		owner = RKM
+		owner = MCW
 	}
 	
 	manpower=2161650

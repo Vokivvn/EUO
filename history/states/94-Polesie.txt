@@ -4,6 +4,11 @@ state={
 	provinces={
 		535 560 3392 3496 6415 6546 6579 9520 11503 11528 
 	}
+	
+	history={
+		owner = UKR
+	}
+	
 	manpower=1232200
 	buildings_max_level_factor=1.000
 	state_category=rural

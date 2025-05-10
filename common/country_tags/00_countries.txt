@@ -277,3 +277,6 @@ MCW = "countries/Moskowien.txt"
 OST = "countries/Ostland.txt"
 KAU = "countries/Kaukasien.txt"
 BNT = "countries/Banat.txt"
+GMS = "countries/Sahara Government.txt"
+FFR = "countries/Free France.txt"
+

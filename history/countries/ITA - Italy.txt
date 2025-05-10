@@ -17,11 +17,34 @@ recruit_character = ITA_guy
 
 create_faction = Salo_accord
 add_to_faction = ITA
-add_to_faction = ALB
-add_to_faction = CRO
+add_to_faction = TUR
 
 set_autonomy = {
 	target = ALB
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = CRO
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = GRE
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = MNT
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = GMS
 	autonomous_state = autonomy_puppet
 	freedom_level = 0.2
 }

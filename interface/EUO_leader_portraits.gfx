@@ -1,10 +1,13 @@
 spriteTypes = {
 
-## GERMAN REICH
-
 	spriteType = {
 		name = "GFX_portrait_gerhard_frey"
 		texturefile = "gfx/leaders/GER/Portrait_GER_Gerhard_Frey.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_manos_konstas"
+		texturefile = "gfx/leaders/GRE/Portrait_GRE_Manos_Konstas.png"
 	}
 	
 }

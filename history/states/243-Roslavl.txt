@@ -6,7 +6,7 @@ state={
 	}
 	
 	history={
-		owner = RKO
+		owner = OST
 	}
 	
 	manpower=576210
