@@ -19,6 +19,11 @@ create_faction = Kontinentalpakt
 add_to_faction = GER
 add_to_faction = FRA
 add_to_faction = ENG
+add_to_faction = HUN
+add_to_faction = ROM
+add_to_faction = BUL
+add_to_faction = SER
+add_to_faction = IRE
 
 set_autonomy = {
 	target = GGN
@@ -77,6 +82,18 @@ set_autonomy = {
 
 set_autonomy = {
 	target = SLO
+	autonomous_state = autonomy_reichsprotectorate
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = ZAR
+	autonomous_state = autonomy_reichsprotectorate
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = MAD
 	autonomous_state = autonomy_reichsprotectorate
 	freedom_level = 0.2
 }

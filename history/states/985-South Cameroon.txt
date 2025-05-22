@@ -1,0 +1,15 @@
+state={
+	id=985
+	name="STATE_985"
+	provinces={
+		2080 5036 5054 
+	}
+	
+	history={
+		owner = CAR
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

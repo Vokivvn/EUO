@@ -279,4 +279,8 @@ KAU = "countries/Kaukasien.txt"
 BNT = "countries/Banat.txt"
 GMS = "countries/Sahara Government.txt"
 FFR = "countries/Free France.txt"
+ZAR = "countries/Zentralasiatische Regierung.txt"
+OHI = "countries/Ohio.txt"
+AZW = "countries/Azawad.txt"
+WAF = "countries/West Africa Federation.txt"
 

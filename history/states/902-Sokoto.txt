@@ -6,7 +6,7 @@ state = {
 
 	history = {
 
-		owner = ENG
+		owner = NGA
 		add_core_of = NGA
 		add_core_of = SOK
 
@@ -21,7 +21,7 @@ state = {
 	}
 
 	provinces = {
-		1891 1932 1969 2025 4938 4972 8021 
+		1891 1932 1969 2025 4938 4972 8021 10820 
 	}
 	
 	buildings_max_level_factor = 1.000

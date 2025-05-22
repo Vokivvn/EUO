@@ -4,6 +4,11 @@ state={
 	provinces={
 		901 2013 7513 10383 12316 12442 
 	}
+	
+	history={
+		owner = SYR
+	}
+	
 	manpower=324110
 	buildings_max_level_factor=1.000
 	state_category=wasteland

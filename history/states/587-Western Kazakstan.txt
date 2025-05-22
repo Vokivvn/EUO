@@ -3,20 +3,18 @@ state={
 	name="STATE_587"
 
 	history={
-		owner = SOV
-		add_core_of = KAZ
+		owner = ZAR
+		add_core_of = ZAR
 		buildings = {
 			infrastructure = 1
 		}
 		victory_points = {
 			1517 1 
 		}
-		add_core_of = SOV
-
 	}
 
 	provinces={
-		475 642 1517 3593 4523 4620 7641 10262 11701 12163 12383 13008 
+		475 642 1517 3593 4523 7641 10262 11701 12163 12233 12474 13008 
 	}
 	manpower=245133
 	buildings_max_level_factor=1.000

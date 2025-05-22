@@ -10,7 +10,7 @@ state = {
 
 	history = {
 
-		owner = BEL
+		owner = CAR
 
 		IF = {
 			limit = {
@@ -35,7 +35,7 @@ state = {
 	}
 
 	provinces = {
-		1950 2034 2073 2154 6027 11934 12808 12847 
+		1950 2034 2073 2154 6027 11934 12783 12808 12847 
 	}
 	
 	buildings_max_level_factor = 1.000

@@ -5,7 +5,7 @@ state={
 	manpower=871202
 
 	history={
-		owner = ENG
+		owner = OMA
 		victory_points = {
 			5074 1 
 		}
@@ -18,12 +18,12 @@ state={
 			}
 			
 		}
-		add_core_of = YEM
+		add_core_of = OMA
 
 	}
 
 	provinces={
-		2029 4976 5074 12821 12894 13079 
+		2029 4976 12768 12821 12894 13079 
 	}
 	
 	buildings_max_level_factor=1.000

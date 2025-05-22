@@ -2,8 +2,13 @@ state={
 	id=195
 	name="STATE_195"
 	provinces={
-		79 149 3151 6174 11068 
+		79 6174 11068 
 	}
+	
+	history={
+		owner = MCW
+	}
+	
 	manpower=3750158
 	buildings_max_level_factor=1.000
 	state_category=metropolis

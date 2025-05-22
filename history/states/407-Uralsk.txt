@@ -6,7 +6,7 @@ state={
 	}
 	
 	history={
-		owner = SOV
+		owner = ZAR
 	}
 	
 	manpower=268572

@@ -6,18 +6,7 @@ state = {
 
 	history = {
 
-		owner = BEL
-
-		IF = {
-			limit = {
-				has_dlc = "Gotterdammerung"
-			}
-			transfer_state_to = COG
-			add_dynamic_modifier = {
-				modifier = COG_state_loyal_to_free_congo_modifier
-			}
-		}
-
+		owner = CAR
 		victory_points = {
 			2024 1 # Bakwanga
 		}
@@ -26,12 +15,12 @@ state = {
 			infrastructure = 1
 		}
 
-		add_core_of = COG
+		add_core_of = CAR
 
 	}
 
 	provinces = {
-		1731 1929 2024 4128 7716 8016 9986 10858 
+		1731 2024 4128 7716 8016 10858 
 	}
 
 	buildings_max_level_factor = 1.000
