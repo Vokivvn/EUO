@@ -4,6 +4,11 @@ state={
 	provinces={
 		1349 1405 4072 4353 4395 7013 7060 7119 7177 7232 7250 7411 10019 10210 10259 10270 10799 12142 12182 12269 12295 
 	}
+	
+	history={
+		owner = RAJ
+	}
+	
 	manpower=17355600
 	buildings_max_level_factor=1.000
 	state_category=town

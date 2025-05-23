@@ -486,6 +486,36 @@ WAF = {
 	color_ui = rgb { 138 155 116 }
 }
 
+IEA = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 138 155 116 }
+}
+
+ILE = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 138 155 116 }
+}
+
+GDC = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 138 155 116 }
+}
+
+GDE = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 138 155 116 }
+}
+
+GDN = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 138 155 116 }
+}
+
+GES = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 138 155 116 }
+}
+
 COG = {
 	color = rgb { 152 159 209 }
 	color_ui = rgb { 152 159 209 }
@@ -906,7 +936,7 @@ KHA = {
 	color = rgb { 51 204 51 }
 	color_ui = rgb { 25 102 25 }
 }
-AOI = {
+IEA = {
 	color = rgb { 0 153 51 }
 	color_ui = rgb { 0 77 26 }
 }

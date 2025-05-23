@@ -14,5 +14,9 @@ set_popularities = {
 }
 
 create_faction = league_of_the_sun
+add_to_faction = PRU
+add_to_faction = BOL
+add_to_faction = ARG
+add_to_faction = CHL
 
 recruit_character = PRU_isaac_humala

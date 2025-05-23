@@ -18,6 +18,10 @@ recruit_character = ITA_guy
 create_faction = Salo_accord
 add_to_faction = ITA
 add_to_faction = TUR
+add_to_faction = SAU
+add_to_faction = IRQ
+add_to_faction = OMA
+add_to_faction = YEM
 
 set_autonomy = {
 	target = ALB
@@ -45,6 +49,54 @@ set_autonomy = {
 
 set_autonomy = {
 	target = GMS
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = EGY
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = GDN
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = GDE
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = GDC
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = GES
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = IEA
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = ILE
+	autonomous_state = autonomy_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = SYR
 	autonomous_state = autonomy_puppet
 	freedom_level = 0.2
 }

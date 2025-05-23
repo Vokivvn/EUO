@@ -4,6 +4,11 @@ state={
 	provinces={
 		2046 4138 4961 4963 7989 8105 10745 12796 12836 
 	}
+	
+	history={
+		owner = GDN
+	}
+	
 	manpower=821003
 	buildings_max_level_factor=1.000
 	state_category=rural

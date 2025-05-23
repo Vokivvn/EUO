@@ -2,8 +2,13 @@ state={
 	id=549
 	name="STATE_549"
 	provinces={
-		2016 8052 8084 10739 10795 10827 10851 12744 
+		2016 8052 8084 10739 10827 
 	}
+	
+	history={
+		owner = GDC
+	}
+	
 	manpower=1802132
 	buildings_max_level_factor=1.000
 	state_category=rural

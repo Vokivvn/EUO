@@ -4,6 +4,11 @@ state={
 	provinces={
 		1953 4033 7996 10764 10857 10908 
 	}
+	
+	history={
+		owner = GDE
+	}
+	
 	manpower=550000
 	buildings_max_level_factor=1.000
 	state_category=pastoral

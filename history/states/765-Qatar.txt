@@ -6,7 +6,7 @@ state = {
 
 	history = {
 		
-		owner = ENG
+		owner = ITA
 		add_core_of = QAT
 
 		victory_points = {
