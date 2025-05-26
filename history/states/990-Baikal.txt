@@ -1,0 +1,10 @@
+state={
+	id=990
+	name="STATE_990"
+	provinces={
+		1761 4716 4835 7736 7759 7854 10583 10654 12506 12575 12644 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

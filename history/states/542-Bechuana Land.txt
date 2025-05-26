@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = AVS
 		buildings = {
 			infrastructure = 1
 		}

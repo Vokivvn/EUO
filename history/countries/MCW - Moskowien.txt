@@ -13,4 +13,4 @@ set_popularities = {
 	national_socialism = 100
 }
 
-recruit_character = MCW_guy
+recruit_character = MCW_johann_thiessen

@@ -7,6 +7,11 @@ state={
 	provinces={
 		1412 4278 4291 4315 4344 5032 7244 7391 7395 8011 8100 10190 10208 12105 12146 12208 12734 
 	}
+	
+	history={
+		owner = SIN
+	}
+	
 	manpower=12348200
 	buildings_max_level_factor=1.000
 	state_category=rural

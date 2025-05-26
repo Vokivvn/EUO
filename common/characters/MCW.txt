@@ -1,0 +1,16 @@
+characters = {
+	MCW_johann_thiessen = {
+		name = "Johann Thießen" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_johann_thiessen
+			}
+		}
+		country_leader = {
+			ideology = national_socialism_subtype
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+}
+	

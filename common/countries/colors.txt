@@ -516,6 +516,21 @@ GES = {
 	color_ui = rgb { 138 155 116 }
 }
 
+CAF = {
+	color = rgb { 216 197 120 }
+	color_ui = rgb { 138 155 116 }
+}
+
+WSI = {
+	color = rgb { 152 143 137 }
+	color_ui = rgb { 138 155 116 }
+}
+
+CAF = {
+	color = rgb { 216 197 120 }
+	color_ui = rgb { 138 155 116 }
+}
+
 COG = {
 	color = rgb { 152 159 209 }
 	color_ui = rgb { 152 159 209 }

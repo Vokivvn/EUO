@@ -10,4 +10,14 @@ spriteTypes = {
 		texturefile = "gfx/leaders/GRE/Portrait_GRE_Manos_Konstas.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_jean_castrillo"
+		texturefile = "gfx/leaders/FRA/Portrait_Jean_Castrillo.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_johann_thiessen"
+		texturefile = "gfx/leaders/MCW/Portrait_MCW_Johann_Thießen.png"
+	}
+	
 }

@@ -6,7 +6,7 @@ state={
 	}
 	
 	history={
-		owner = SOV
+		owner = WSI
 	}
 	
 	manpower=939067
