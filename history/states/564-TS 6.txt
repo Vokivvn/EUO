@@ -11,10 +11,6 @@ state={
 		1696 1727 1762 1810 4766 4797 4837 7816 7835 10528 10543 12525 13366 
 	}
 	
-	history={
-		owner = MEN
-	}
-	
 	manpower=370893
 	buildings_max_level_factor=1.000
 	state_category=rural

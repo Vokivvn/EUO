@@ -20,4 +20,24 @@ spriteTypes = {
 		texturefile = "gfx/leaders/MCW/Portrait_MCW_Johann_Thießen.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_igors_siskins"
+		texturefile = "gfx/leaders/OST/Portrait_OST_Igors_Siskins.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_ronan_le_gall"
+		texturefile = "gfx/leaders/BRI/Portrait_BRI_Ronan_Le_Gall.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_jan_kopunek"
+		texturefile = "gfx/leaders/SLO/Portrait_SLO_Jan_Kopunek.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_pino_rauti"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_Pino_Rauti.png"
+	}
+	
 }

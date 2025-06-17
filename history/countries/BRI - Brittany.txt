@@ -12,3 +12,5 @@ set_politics = {
 set_popularities = {
 	national_bolshevism = 100
 }
+
+recruit_character = BRI_ronan_le_gall

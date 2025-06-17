@@ -5,7 +5,7 @@ state={
 		steel=2.000
 	}
 	provinces={
-		9849 9874 
+		6940 9849 9874 
 	}
 	
 	history={

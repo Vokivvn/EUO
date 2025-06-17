@@ -13,4 +13,4 @@ set_popularities = {
 	national_socialism = 100
 }
 
-recruit_character = OST_guy
+recruit_character = OST_igors_siskins

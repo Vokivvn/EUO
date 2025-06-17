@@ -1,0 +1,15 @@
+state={
+	id=989
+	name="STATE_989"
+	provinces={
+		1291 7427 12215 12299 
+	}
+	
+	history={
+		owner = JAP
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

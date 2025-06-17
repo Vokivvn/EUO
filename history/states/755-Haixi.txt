@@ -2,11 +2,11 @@ state={
 	id=755
 	name="STATE_755"
 	provinces={
-		2053 2099 7997 10750 10796 12846 13146 
+		2053 2099 8018 10750 10796 12846 13146 
 	}
 	
 	history={
-		owner= CHI
+		owner = CHI
 	}
 	
 	manpower=1000000

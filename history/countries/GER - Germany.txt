@@ -10,7 +10,8 @@ set_politics = {
 }
 
 set_popularities = {
-	national_socialism = 100
+	fascism = 5
+	national_socialism = 95
 }
 
 recruit_character = GER_gerhard_frey

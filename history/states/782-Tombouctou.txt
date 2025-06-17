@@ -2,13 +2,8 @@ state={
 	id=782
 	name="STATE_782"
 	provinces={
-		1115 1897 2068 5101 7943 10725 10788 10838 10868 
+		1115 1897 7943 10725 10838 10868 
 	}
-	
-	history={
-		owner = WAF
-	}
-	
 	manpower=79243
 	buildings_max_level_factor=1.000
 	state_category=wasteland

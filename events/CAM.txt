@@ -1,0 +1,42 @@
+﻿add_namespace = CAM
+
+country_event = { #Intro 
+	id = CAM.1
+	title = CAM.1.t
+	desc = CAM.1.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = CAM.1.a
+	}
+}
+
+country_event = { #Elections 
+	id = CAM.40
+	title = CAM.40.t
+	desc = CAM.40.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Rosenberg
+		name = CAM.40.a
+		hidden_effect = {
+		JAP = {
+			end_puppet = CAM
+		}
+		KHM = {
+			transfer_state = 994
+			declare_war_on = {
+    			target = CAM
+    			type = annex_everything
+			}
+		}
+		CAM = {
+			leave_faction
+			}
+		}
+	}
+}

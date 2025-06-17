@@ -13,7 +13,7 @@ set_popularities = {
 	fascism = 100
 }
 
-recruit_character = ITA_guy
+recruit_character = ITA_pino_rauti
 
 create_faction = Salo_accord
 add_to_faction = ITA

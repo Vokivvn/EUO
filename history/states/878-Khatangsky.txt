@@ -1,23 +1,11 @@
-
-state = {
-	id = 878
-	name = "STATE_878" # Khatangsky
-	manpower = 15974
-	
-	state_category = pastoral
-
-	history = {
-		owner = SOV
-		buildings = {
-			infrastructure = 1
-		}
-		add_core_of = SOV
-		add_core_of = TAY
+state={
+	id=878
+	name="STATE_878"
+	provinces={
+		1741 2900 4743 4812 4831 7805 9224 10631 11122 12615 12687 13065 
 	}
-
-	provinces = {
-		2900 4812 9224 11122 12687 13065
-	}
-
-	local_supplies = 0.0 
+	manpower=15974
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
 }

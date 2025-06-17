@@ -2,7 +2,7 @@
 # MAIN THEME
 music = {
 	name = "maintheme"
-	file = "horst_wessel_lied_sad.ogg"
+	file = "maintheme.ogg"
 	volume = 0.65
 }
 

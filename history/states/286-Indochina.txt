@@ -9,7 +9,7 @@ state={
 	}
 	
 	history={
-		owner = CAM
+		owner = VIN
 	}
 	
 	manpower=5245000

@@ -1,0 +1,15 @@
+state={
+	id=994
+	name="STATE_994"
+	provinces={
+		5236 7319 7404 7432 10289 
+	}
+	
+	history={
+		owner = CAM
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
