@@ -2,8 +2,13 @@ state={
 	id=878
 	name="STATE_878"
 	provinces={
-		1741 2900 4743 4812 4831 7805 9224 10631 11122 12615 12687 13065 
+		2900 4812 9224 11122 12687 13065 
 	}
+	
+	history={
+		owner = SZO
+	}
+	
 	manpower=15974
 	buildings_max_level_factor=1.000
 	state_category=pastoral

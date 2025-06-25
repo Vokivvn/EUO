@@ -6,8 +6,13 @@ state={
 		aluminium=7.000
 	}
 	provinces={
-		1707 1829 4815 7838 10596 10661 12540 12647 
+		1707 1727 1810 1829 4797 4815 7838 10524 10543 10596 10661 12525 12540 12647 
 	}
+	
+	history={
+		owner = IRK
+	}
+	
 	manpower=755237
 	buildings_max_level_factor=1.000
 	state_category=rural

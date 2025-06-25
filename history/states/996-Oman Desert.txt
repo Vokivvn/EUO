@@ -1,0 +1,15 @@
+state={
+	id=996
+	name="STATE_996"
+	provinces={
+		2018 
+	}
+	
+	history={
+		owner = OMA
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

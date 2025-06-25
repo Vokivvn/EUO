@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		4976 12768 12821 12894 13079 
+		4976 12821 12894 13079 
 	}
 	
 	buildings_max_level_factor=1.000

@@ -2,13 +2,8 @@ state={
 	id=895
 	name="STATE_895"
 	provinces={
-		7770 8136 12519 13217 
+		7770 8136 12519 
 	}
-	
-	history={
-		owner = NAM
-	}
-	
 	manpower=92400
 	buildings_max_level_factor=1.000
 	state_category=pastoral

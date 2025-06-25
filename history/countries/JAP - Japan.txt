@@ -1,5 +1,20 @@
 ﻿capital = 282 # Tokyo/Kanto
 
+oob = "JAP_2010"
+
+set_politics = {
+	ruling_party = autocratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	autocratic = 100
+}
+
+recruit_character = JAP_guy
+
 create_faction = dai_toa_kyoeiken
 add_to_faction = JAP
 add_to_faction = CHI
@@ -17,3 +32,20 @@ add_to_faction = INS
 add_to_faction = LAO
 add_to_faction = YUN
 add_to_faction = HAW
+add_to_faction = PAC
+add_to_faction = FER
+add_to_faction = SIN
+add_to_faction = WSU
+add_to_faction = GNG
+add_to_faction = GXC
+add_to_faction = GUZ
+add_to_faction = HNN
+add_to_faction = XIK
+add_to_faction = HEN
+add_to_faction = SHN
+add_to_faction = SHX
+add_to_faction = SHA
+add_to_faction = NIN
+add_to_faction = GAN
+add_to_faction = QIN
+add_to_faction = BEI

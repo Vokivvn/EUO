@@ -2,8 +2,12 @@ state={
 	id=876
 	name="STATE_876"
 	provinces={
-		1722 2853 3184 6085 13060 13367 
+		1722 2853 3184 6085 13059 13060 13367 
 	}
+	
+	history={
+		owner = SZO
+	
 	manpower=12182
 	buildings_max_level_factor=1.000
 	state_category=wasteland

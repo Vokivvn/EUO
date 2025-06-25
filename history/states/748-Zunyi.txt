@@ -6,7 +6,7 @@ state={
 	}
 	
 	history={
-		owner = CHI
+		owner = GUZ
 	}
 	
 	manpower=1500000

@@ -1,0 +1,42 @@
+﻿add_namespace = SAU
+
+country_event = { #Intro 
+	id = SAU.1
+	title = SAU.1.t
+	desc = SAU.1.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = SAU.1.a
+	}
+}
+
+country_event = { #Elections 
+	id = SAU.40
+	title = SAU.40.t
+	desc = SAU.40.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Rosenberg
+		name = SAU.40.a
+		hidden_effect = {
+		SAU = {
+			declare_war_on = {
+    			target = OMA
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = DHO
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = ADE
+    			type = annex_everything
+			}
+		}
+	}
+}

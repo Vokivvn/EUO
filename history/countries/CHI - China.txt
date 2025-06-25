@@ -12,3 +12,21 @@ set_politics = {
 set_popularities = {
 	reactionary = 100
 }
+
+set_autonomy = {
+	target = HNN
+	autonomous_state = autonomy_integrated_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = GUZ
+	autonomous_state = autonomy_integrated_puppet
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = SZC
+	autonomous_state = autonomy_integrated_puppet
+	freedom_level = 0.2
+}

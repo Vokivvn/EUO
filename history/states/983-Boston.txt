@@ -4,6 +4,12 @@ state={
 	provinces={
 		905 3906 6732 6909 9832 9847 11830 
 	}
+	
+	history={
+		owner = NEE
+		victory_points = { 6732 20 }
+	}
+	
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

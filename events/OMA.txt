@@ -24,29 +24,30 @@ country_event = { #Elections
 	option = { #Rosenberg
 		name = OMA.40.a
 		hidden_effect = {
-		GER = {
+		ITA = {
 			end_puppet = OMA
 		}
-		FGE = {
-			transfer_state = 89
-			transfer_state = 91
-			set_province_controller = 3434
-			set_province_controller = 3544
-			set_province_controller = 6580
-			set_province_controller = 9400
-			set_province_controller = 9494
-			set_province_controller = 11399
-			set_province_controller = 11492
+		ADE = {
+			transfer_state = 993
 			declare_war_on = {
     			target = OMA
     			type = annex_everything
 			}
 		}
+		DHO = {
+			transfer_state = 992
+			transfer_state = 995
+			declare_war_on = {
+    			target = OMA
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = ADE
+    			type = annex_everything
+			}
+		}
 		OMA = {
 			leave_faction
-			declare_war_on = {
-    			target = FGE
-    			type = annex_everything
 			}
 		}
 	}

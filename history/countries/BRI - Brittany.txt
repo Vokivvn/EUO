@@ -3,14 +3,14 @@
 oob = "BRI_2010"
 
 set_politics = {
-	ruling_party = national_bolshevism
+	ruling_party = syncretism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	national_bolshevism = 100
+	syncretism = 100
 }
 
 recruit_character = BRI_ronan_le_gall

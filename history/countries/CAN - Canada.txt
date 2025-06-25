@@ -1,4 +1,2 @@
 ﻿capital = 276
 
-create_faction = International_Allied_Defense_Organization
-add_to_faction = CAN

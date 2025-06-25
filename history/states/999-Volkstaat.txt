@@ -1,0 +1,15 @@
+state={
+	id=999
+	name="STATE_999"
+	provinces={
+		10415 10697 12419 
+	}
+	
+	history={
+		owner = AVS
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

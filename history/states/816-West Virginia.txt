@@ -4,6 +4,11 @@ state={
 	provinces={
 		801 3941 3975 4627 6958 6971 7466 7588 7646 9923 10441 11888 
 	}
+	
+	history={
+		owner = DIX
+	}
+	
 	manpower=1901974
 	buildings_max_level_factor=1.000
 	state_category=town

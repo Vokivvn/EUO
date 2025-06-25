@@ -14,7 +14,7 @@ set_popularities = {
 	national_socialism = 95
 }
 
-recruit_character = GER_gerhard_frey
+recruit_character = GER_martin_adolf_bormann
 
 create_faction = Kontinentalpakt
 add_to_faction = GER
@@ -25,6 +25,18 @@ add_to_faction = ROM
 add_to_faction = BUL
 add_to_faction = SER
 add_to_faction = IRE
+add_to_faction = WSI
+add_to_faction = KRS
+add_to_faction = EVN
+add_to_faction = KAZ
+add_to_faction = UZB
+add_to_faction = KYR
+add_to_faction = TAJ
+add_to_faction = TMS
+add_to_faction = KHI
+add_to_faction = SZO
+add_to_faction = ICE
+add_to_faction = GRN
 
 set_autonomy = {
 	target = GGN
@@ -96,6 +108,36 @@ set_autonomy = {
 set_autonomy = {
 	target = MAD
 	autonomous_state = autonomy_reichsprotectorate
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = DIX
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = NEE
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = NGE
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = KAN
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = QUE
+	autonomous_state = autonomy_reichskommissariat
 	freedom_level = 0.2
 }
 

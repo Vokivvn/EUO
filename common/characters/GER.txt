@@ -1,9 +1,9 @@
 characters = {
-	GER_gerhard_frey = {
-		name = "Gerhard Frey" 
+	GER_martin_adolf_bormann = {
+		name = "Martin Adolf Bormann" 
 		portraits = {
 			civilian = {
-				large = GFX_portrait_gerhard_frey
+				large = GFX_adolf_martin_bormann
 			}
 		}
 		country_leader = {

@@ -6,8 +6,13 @@ state={
 		aluminium=30.000
 	}
 	provinces={
-		1972 3867 3883 4975 5044 8070 10573 10645 10914 12552 12791 
+		853 1793 1954 1972 3834 3867 3883 4796 4975 5038 5044 7747 7920 8070 8115 10740 10783 10894 10914 12791 
 	}
+	
+	history={
+		owner = MEX
+	}
+	
 	manpower=423316
 	buildings_max_level_factor=1.000
 	state_category=rural
