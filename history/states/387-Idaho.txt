@@ -7,8 +7,13 @@ state={
 		tungsten=18.000
 	}
 	provinces={
-		1789 1832 3781 4778 6742 7845 9616 9695 10556 10602 12124 12535 12607 
+		1789 1832 3781 4778 7845 9616 9695 10556 10602 12124 12535 12607 
 	}
+	
+	history={
+		owner = IDA
+	}
+	
 	manpower=445031
 	buildings_max_level_factor=1.000
 	state_category=rural

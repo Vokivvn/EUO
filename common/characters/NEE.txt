@@ -1,0 +1,16 @@
+characters = {
+	NEE_jeff_schoep = {
+		name = "Jeff Schoep" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_jeff_schoep
+			}
+		}
+		country_leader = {
+			ideology = national_socialism_subtype
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+}
+	

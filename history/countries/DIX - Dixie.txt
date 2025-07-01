@@ -11,4 +11,4 @@ set_popularities = {
 	national_socialism = 100
 }
 
-recruit_character = DIX_guy
+recruit_character = DIX_william_luther_pierce

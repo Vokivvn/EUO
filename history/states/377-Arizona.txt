@@ -9,6 +9,11 @@ state={
 	provinces={
 		850 6897 7821 10573 11814 12765 
 	}
+	
+	history={
+		owner = UTA
+	}
+	
 	manpower=435572
 	buildings_max_level_factor=1.000
 	state_category=rural

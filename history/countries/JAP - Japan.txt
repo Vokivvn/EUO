@@ -49,3 +49,4 @@ add_to_faction = NIN
 add_to_faction = GAN
 add_to_faction = QIN
 add_to_faction = BEI
+add_to_faction = CHT

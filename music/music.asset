@@ -12,6 +12,60 @@ music = {
 	volume = 0.65
 }
 
+music = {
+	name = "mein_kleiner_vw"
+	file = "mein_kleiner_vw.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "boom_boom"
+	file = "boom_boom.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nowhere_to_run"
+	file = "nowhere_to_run.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "zug_nach_Hamburg"
+	file = "zug_nach_Hamburg.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tapferer_kleiner_liebling"
+	file = "tapferer_kleiner_liebling.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ich_bin_uberall"
+	file = "ich_bin_uberall.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "toe_the_line"
+	file = "toe_the_line.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "weltraumsurfen"
+	file = "weltraumsurfen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "berlin_boys_and_stuttgart_girls"
+	file = "berlin_boys_and_stuttgart_girls.ogg"
+	volume = 0.65
+}
+
 # General Peace:
 #music = {
 	name = "general_peace_1"

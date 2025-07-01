@@ -13,4 +13,4 @@ set_popularities = {
 	reactionary = 100
 }
 
-recruit_character = ISA_guy
+recruit_character = ISA_adnan_abu_walid_al_sahrawi

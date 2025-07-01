@@ -1,0 +1,56 @@
+﻿add_namespace = IRQ
+
+country_event = { #Intro 
+	id = IRQ.1
+	title = IRQ.1.t
+	desc = IRQ.1.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = IRQ.1.a
+	}
+}
+
+country_event = { #Elections 
+	id = IRQ.40
+	title = IRQ.40.t
+	desc = IRQ.40.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Rosenberg
+		name = IRQ.40.a
+		hidden_effect = {
+		JOR = {
+			transfer_state = 455
+			}
+		ITA = {
+			add_to_faction = JOR
+			}
+		IRQ = {
+			set_cosmetic_tag = IRQ_republic
+			}
+		}
+	}
+}
+
+country_event = { #Elections 
+	id = IRQ.45
+	title = IRQ.45.t
+	desc = IRQ.45.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Rosenberg
+		name = IRQ.45.a
+		hidden_effect = {
+		IRQ = {
+			transfer_state = 656
+			}
+		}
+	}
+}

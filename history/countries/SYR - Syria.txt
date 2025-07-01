@@ -13,4 +13,4 @@ set_popularities = {
 	autocratic = 100
 }
 
-recruit_character = SYR_guy
+recruit_character = SYR_ali_abdullah_ayyoub

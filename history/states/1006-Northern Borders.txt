@@ -1,0 +1,15 @@
+state={
+	id=1006
+	name="STATE_1006"
+	provinces={
+		4974 10815 12749 
+	}
+	
+	history={
+		owner = SAU
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+characters = {
+	NGE_rocky_shuayda = {
+		name = "Rocky Shuayda" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_rocky_shuayda
+			}
+		}
+		country_leader = {
+			ideology = national_socialism_subtype
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+}
+	

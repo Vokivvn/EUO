@@ -1,20 +1,14 @@
 state={
 	id=678
 	name="STATE_678"
-
+	provinces={
+		4932 5081 8118 12740 
+	}
+	
 	history={
 		owner = OMA
-		buildings = {
-			infrastructure = 0
-
-		}
-		add_core_of = OMA
-
 	}
-
-	provinces={
-		4932 5081 8118 12740 12768 
-	}
+	
 	manpower=42
 	buildings_max_level_factor=1.000
 	state_category=wasteland

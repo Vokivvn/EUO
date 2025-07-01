@@ -1,0 +1,15 @@
+state={
+	id=1004
+	name="STATE_1004"
+	provinces={
+		1649 4482 4549 5003 7924 10414 10742 
+	}
+	
+	history={
+		owner = KRK
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

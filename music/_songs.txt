@@ -5,7 +5,7 @@ music = {
 	song = "maintheme"
 	chance = {
 		modifier = {
-			factor = 0.5
+			factor = 2
 		}		
 	}
 }
@@ -14,7 +14,88 @@ music = {
 	song = "mond_mond_ja_ja"
 	chance = {
 		modifier = {
-			factor = 0.5
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "mein_kleiner_vw"
+	chance = {
+		modifier = {
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "boom_boom"
+	chance = {
+		modifier = {
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "nowhere_to_run"
+	chance = {
+		modifier = {
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "zug_nach_Hamburg"
+	chance = {
+		modifier = {
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "tapferer_kleiner_liebling"
+	chance = {
+		modifier = {
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "ich_bin_uberall"
+	chance = {
+		modifier = {
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "toe_the_line"
+	chance = {
+		modifier = {
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "weltraumsurfen"
+	chance = {
+		modifier = {
+			factor = 2
+		}		
+	}
+}
+
+music = {
+	song = "berlin_boys_and_stuttgart_girls"
+	chance = {
+		modifier = {
+			factor = 2
 		}		
 	}
 }

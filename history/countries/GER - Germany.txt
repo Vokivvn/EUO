@@ -37,6 +37,10 @@ add_to_faction = KHI
 add_to_faction = SZO
 add_to_faction = ICE
 add_to_faction = GRN
+add_to_faction = TKS
+add_to_faction = KRK
+add_to_faction = AKT
+add_to_faction = FRG
 
 set_autonomy = {
 	target = GGN
@@ -137,6 +141,12 @@ set_autonomy = {
 
 set_autonomy = {
 	target = QUE
+	autonomous_state = autonomy_reichskommissariat
+	freedom_level = 0.2
+}
+
+set_autonomy = {
+	target = CAF
 	autonomous_state = autonomy_reichskommissariat
 	freedom_level = 0.2
 }

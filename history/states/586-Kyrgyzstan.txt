@@ -8,11 +8,11 @@ state={
 		aluminium=10.000
 	}
 	provinces={
-		7706 10603 12640 12658 
+		7706 10408 10603 10660 12583 12640 12658 
 	}
 	
 	history={
-		owner = KAZ
+		owner = TKS
 	}
 	
 	manpower=2563404

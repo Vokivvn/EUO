@@ -5,8 +5,13 @@ state={
 		oil=44.000
 	}
 	provinces={
-		1528 1559 1643 4507 4522 4535 7555 7599 12313 12398 12401 
+		1503 1559 1643 4507 4522 4535 7543 7555 7599 10355 12398 
 	}
+	
+	history={
+		owner = LOU
+	}
+	
 	manpower=2101592
 	buildings_max_level_factor=1.000
 	state_category=city

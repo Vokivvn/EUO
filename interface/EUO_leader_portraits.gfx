@@ -40,4 +40,44 @@ spriteTypes = {
 		texturefile = "gfx/leaders/ITA/Portrait_ITA_Pino_Rauti.png"
 	}
 	
+	spriteType = {
+		name = "GFX_portrait_ali_abdullah_ayyoub"
+		texturefile = "gfx/leaders/SYR/Portrait_SYR_Ali_Abdullah_Ayyoub.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_nouri_al_maliki"
+		texturefile = "gfx/leaders/IRQ/Portrait_IRQ_Nouri_Al_Maliki.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_gustavo_morales"
+		texturefile = "gfx/leaders/CUB/Portrait_CUB_Gustavo_Morales.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_william_luther_pierce"
+		texturefile = "gfx/leaders/DIX/Portrait_DIX_William_Luther_Pierce.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_jeff_schoep"
+		texturefile = "gfx/leaders/NEE/Portrait_NEE_Jeff_Schoep.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_adnan_abu_walid_al_sahrawi"
+		texturefile = "gfx/leaders/ISA/Portrait_ISA_adnan_abu_walid_al_sahrawi.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_rocky_shuayda"
+		texturefile = "gfx/leaders/NGE/Portrait_NGE_Rocky_Suhayda.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_anita_bose_pfaff"
+		texturefile = "gfx/leaders/RAJ/Portrait_RAJ_Anita_Bose_Pfaff.png"
+	}
+	
 }

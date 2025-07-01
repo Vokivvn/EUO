@@ -1,0 +1,16 @@
+characters = {
+	SYR_ali_abdullah_ayyoub = {
+		name = "Ali Abdullah Ayyoub" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ali_abdullah_ayyoub
+			}
+		}
+		country_leader = {
+			ideology = autocratic_subtype
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+}
+	

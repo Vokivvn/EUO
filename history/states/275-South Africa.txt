@@ -10,7 +10,7 @@ state={
 	}
 	
 	history={
-		owner = AVS
+		owner = SAF
 	}
 	
 	manpower=3680363

@@ -29,14 +29,29 @@ country_event = { #Elections
 		}
 		ADE = {
 			transfer_state = 993
+			transfer_state = 678
+			transfer_state = 859
 			declare_war_on = {
     			target = OMA
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = SAU
     			type = annex_everything
 			}
 		}
 		DHO = {
 			transfer_state = 992
+			transfer_state = 996
+			declare_war_on = {
+    			target = OMA
+    			type = annex_everything
+			}
+		}
+		SYE = {
+			transfer_state = 659
 			transfer_state = 995
+			transfer_state = 1005
 			declare_war_on = {
     			target = OMA
     			type = annex_everything
@@ -47,6 +62,10 @@ country_event = { #Elections
 			}
 		}
 		OMA = {
+			leave_faction
+			}
+		}
+		SAU = {
 			leave_faction
 			}
 		}

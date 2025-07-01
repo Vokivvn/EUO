@@ -3,14 +3,14 @@ capital = 439
 oob = "RAJ_2010"
 
 set_politics = {
-	ruling_party = syncretism
+	ruling_party = reactionary
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	syncretism = 100
+	reactionary = 100
 }
 
 recruit_character = RAJ_anita_bose_pfaff

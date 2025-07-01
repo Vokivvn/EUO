@@ -1,0 +1,80 @@
+﻿add_namespace = ITA
+
+country_event = { #Intro 
+	id = ITA.1
+	title = ITA.1.t
+	desc = ITA.1.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = ITA.1.a
+	}
+}
+
+country_event = { #Elections 
+	id = ITA.40
+	title = ITA.40.t
+	desc = ITA.40.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Rosenberg
+		name = ITA.40.a
+		hidden_effect = {
+		JAP = {
+			end_puppet = ITA
+		}
+		KHM = {
+			transfer_state = 994
+			declare_war_on = {
+    			target = ITA
+    			type = annex_everything
+				}
+			}
+		}
+		ITA = {
+			leave_faction
+			}
+		}
+	}
+}
+
+country_event = { #Elections 
+	id = ITA.80
+	title = ITA.80.t
+	desc = ITA.80.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Rosenberg
+		name = ITA.80.a
+		hidden_effect = {
+		ITA = {
+			dismantle_faction = yes
+			}
+		}
+	}
+}
+
+country_event = { #Elections 
+	id = ITA.101
+	title = ITA.101.t
+	desc = ITA.101.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Rosenberg
+		name = ITA.101.a
+		hidden_effect = {
+		LBA = {
+			transfer_state = 273
+			transfer_state = 775
+			}
+		}
+	}
+}

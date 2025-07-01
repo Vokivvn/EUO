@@ -1,0 +1,15 @@
+state={
+	id=1003
+	name="STATE_1003"
+	provinces={
+		4467 4542 10187 10488 12430 12581 
+	}
+	
+	history={
+		owner = FRG
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

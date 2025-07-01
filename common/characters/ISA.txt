@@ -1,0 +1,16 @@
+characters = {
+	ISA_adnan_abu_walid_al_sahrawi = {
+		name = "Adnan Abu Walid al-Sahrawi" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_adnan_abu_walid_al_sahrawi
+			}
+		}
+		country_leader = {
+			ideology = reactionary_subtype
+			expire = "2030.1.1.1"
+			id = -1
+		}
+	}
+}
+	

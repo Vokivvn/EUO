@@ -1,3 +1,9 @@
 ﻿l_english:
  DHO_win:0 "Republic of Oman"
  DHO_win_DEF:0 "the Republic of Oman"
+ DNV_win:0 "United States of America"
+ DNV_win_DEF:0 "the United States of America"
+ IDA_win:0 "Greater Aryan Lands of America"
+ IDA_win_DEF:0 "the Greater Aryan Lands of America"
+ IRQ_republic:0 "Republic of Iraq"
+ IRQ_republic_DEF:0 "the Republic of Iraq"
