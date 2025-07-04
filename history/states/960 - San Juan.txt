@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = ARG
-		add_core_of = ARG
+		owner = PRU
+		add_core_of = PRU
 
 		buildings = {
 			infrastructure = 1
@@ -25,7 +25,7 @@ state = {
 	}
 
 	provinces = {
-		2136 8253 12928 12978
+		2136 2179 8195 8253 12928
 	}
 
 	local_supplies = 0.0 

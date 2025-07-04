@@ -1,0 +1,16 @@
+﻿capital = 275
+
+oob = "AVS_2010"
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 100
+}
+
+recruit_character = ADE_guy

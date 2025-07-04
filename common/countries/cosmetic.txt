@@ -1,0 +1,4 @@
+RUS_free = {
+    color = rgb { 79 74 119 }
+    color_ui = rgb { 79 74 119 }
+}

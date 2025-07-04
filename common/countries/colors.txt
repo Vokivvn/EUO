@@ -222,8 +222,32 @@ PRU = {
 	color_ui = rgb { 255 246 255 }
 }
 SAF = {
-	color = rgb { 195 107 160 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 204 153 71 }
+	color_ui = rgb { 204 153 71 }
+}
+CAP = {
+	color = rgb { 255 102 0 }
+	color_ui = rgb { 255 102 0 }
+}
+ZUL = {
+	color = rgb { 113 153 76 }
+	color_ui = rgb { 113 153 76 }
+}
+SRE = {
+	color = rgb { 152 186 117 }
+	color_ui = rgb { 152 186 117 }
+}
+HEJ = {
+	color = rgb { 163 178 155 }
+	color_ui = rgb { 163 178 155 }
+}
+FAR = {
+	color = rgb { 108 186 106 }
+	color_ui = rgb { 108 186 106 }
+}
+PUS = {
+	color = rgb { 196 24 21 }
+	color_ui = rgb { 196 24 21 }
 }
 SAU = {
 	color = rgb { 64 179 64 }
@@ -456,6 +480,21 @@ QIN = {
 SHX = {
 	color = rgb { 132 76 106 }
 	color_ui = rgb { 132 76 106 }
+}
+
+AMR = {
+	color = rgb { 97 140 203 }
+	color_ui = rgb { 97 140 203 }
+}
+
+PRA = {
+	color = rgb { 121 62 62 }
+	color_ui = rgb { 121 62 62 }
+}
+
+RNR = {
+	color = rgb { 202 73 73 }
+	color_ui = rgb { 202 73 73 }
 }
 
 XSM = {
@@ -762,8 +801,12 @@ ISR = {
 	color_ui = rgb { 152  130  191 }
 }
 CSA = {
-	color = rgb { 145 163 176  }
-	color_ui = rgb { 186 205 219 }
+	color = rgb { 77 77 77 }
+	color_ui = rgb { 77 77 77 }
+}
+AVS = {
+	color = rgb { 175 98 26 }
+	color_ui = rgb { 175 98 26 }
 }
 D01 = {
 	color = rgb { 122 179 97 }

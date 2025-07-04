@@ -1,0 +1,32 @@
+﻿add_namespace = AVS
+
+country_event = { #Intro 
+	id = AVS.1
+	title = AVS.1.t
+	desc = AVS.1.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = AVS.1.a
+	}
+}
+
+country_event = { #Elections 
+	id = AVS.40
+	title = AVS.40.t
+	desc = AVS.40.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Rosenberg
+		name = AVS.40.a
+		hidden_effect = {
+		AVS = {
+			annex_country = { target = CAP transfer_troops = yes }
+			}
+		}
+	}
+}

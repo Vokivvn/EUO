@@ -1,0 +1,9 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			CAM = {
+				country_event = { id = CAM.40 days = 11.5 } 
+			}
+		}
+	}
+}

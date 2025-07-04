@@ -13,62 +13,82 @@ country_event = { #Intro
 	}
 }
 
-country_event = { #Elections 
-	id = GER.40
-	title = GER.40.t
-	desc = GER.40.d
-	picture = GFX_report_event_chinese_soldiers_01
-
-	is_triggered_only = yes
-	
-	option = { #Rosenberg
-		name = GER.40.a
-		hidden_effect = {
-		set_politics = {
-			ruling_party = revolutionary_right
-			}
-		}
-		load_focus_tree = GER_rosenberg
-	}
-}
-
-country_event = { #Junger 
-	id = GER.43
-	title = GER.43.t
-	desc = GER.43.d
+country_event = { #Intro 
+	id = GER.300
+	title = GER.300.t
+	desc = GER.300.d
 	picture = GFX_report_event_chinese_soldiers_01
 
 	is_triggered_only = yes
 	
 	option = { #Puppetry
-		name = GER.43.a
+		name = GER.300.a
 		hidden_effect = {
-		set_cosmetic_tag = GER_junger
-		retire_country_leader = yes
-		}	
-		create_country_leader = {
-			name = "Ernst Jünger"
-			desc = "POLITICS_ERNST_JUNGER_DESC"
-			picture = "GFX_GER_Ernst_Junger"
-			expire = "1965.1.1"
-			ideology = reactionary_modernism
-				traits = {
+		GER = {
+			dismantle_faction = yes
+			set_politics = { 
+				ruling_party = conservatism
+				}
 			}
 		}
-		load_focus_tree = GER_junger
 	}
 }
 
-country_event = { #New European Order 
-	id = GER.60
-	title = GER.60.t
-	desc = GER.60.d
+country_event = { #Intro 
+	id = GER.301
+	title = GER.301.t
+	desc = GER.301.d
 	picture = GFX_report_event_chinese_soldiers_01
 
 	is_triggered_only = yes
 	
 	option = { #Puppetry
-		name = GER.60.a
-		create_faction = "Neue europäische Ordnung" 
+		name = GER.301.a
+		hidden_effect = {
+		GER = {
+			end_puppet = DIX
+			end_puppet = NEE
+			end_puppet = NGE
+			end_puppet = KAN
+			end_puppet = QUE
+			end_puppet = BRI
+			end_puppet = NOR
+			end_puppet = MCW
+			end_puppet = GGN
+			end_puppet = SLO
+			end_puppet = UKR
+			end_puppet = BNT
+			end_puppet = MCW
+			end_puppet = OST
+			end_puppet = MAD
+			end_puppet = KAU
+			end_puppet = ZAR
+			end_puppet = CAF
+			}
+		}
 	}
 }
+
+country_event = { #Intro 
+	id = GER.305
+	title = GER.305.t
+	desc = GER.305.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = GER.305.a
+		hidden_effect = {
+		DEN = {
+			transfer_state = 37
+			transfer_state = 99
+			transfer_state = 910
+			transfer_state = 911
+			transfer_state = 912
+			}
+		}
+	}
+}
+
+

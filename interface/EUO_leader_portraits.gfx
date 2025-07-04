@@ -76,8 +76,18 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_portrait_Isaac_Humala"
+		texturefile = "gfx/leaders/PRU/Portrait_PRU_Isaac_Humala.png"
+	}
+	
+	spriteType = {
 		name = "GFX_portrait_anita_bose_pfaff"
 		texturefile = "gfx/leaders/RAJ/Portrait_RAJ_Anita_Bose_Pfaff.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_Merril_Jessop"
+		texturefile = "gfx/leaders/UTA/Portrait_UTA_Merril_Jessop.png"
 	}
 	
 }

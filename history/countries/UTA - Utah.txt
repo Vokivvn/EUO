@@ -11,4 +11,4 @@ set_popularities = {
 	reactionary = 100
 }
 
-recruit_character = ADE_guy
+recruit_character = UTA_merril_jessop

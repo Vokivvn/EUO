@@ -1,0 +1,92 @@
+﻿add_namespace = DIX
+
+country_event = { #Intro 
+	id = DIX.1
+	title = GER.1.t
+	desc = DIX.1.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = DIX.1.a
+	}
+}
+
+country_event = { #Intro 
+	id = DIX.40
+	title = GER.40.t
+	desc = DIX.40.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = DIX.40.a
+		hidden_effect = {
+		GER = {
+			end_puppet = DIX
+		AMR = {
+			transfer_state = 1010
+			transfer_state = 816
+			declare_war_on = {
+    			target = DIX
+    			type = annex_everything
+			}
+		}
+		RNR = {
+			transfer_state = 368
+			transfer_state = 369
+			declare_war_on = {
+    			target = DIX
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = AMR
+    			type = annex_everything
+			}
+		}
+		CSA = {
+			transfer_state = 364
+			transfer_state = 365
+			transfer_state = 366
+			transfer_state = 367
+			transfer_state = 370
+			declare_war_on = {
+    			target = DIX
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = AMR
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = RNR
+    			type = annex_everything
+			}
+		}
+		PRA = {
+			transfer_state = 1011
+			declare_war_on = {
+    			target = DIX
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = AMR
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = RNR
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = CSA
+    			type = annex_everything
+			}
+		}
+		DIX = {
+			leave_faction
+			}
+		}
+	}
+}

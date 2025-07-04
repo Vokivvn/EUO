@@ -24,9 +24,6 @@ country_event = { #Elections
 	option = { #Rosenberg
 		name = CAM.40.a
 		hidden_effect = {
-		JAP = {
-			end_puppet = CAM
-		}
 		KHM = {
 			transfer_state = 994
 			declare_war_on = {

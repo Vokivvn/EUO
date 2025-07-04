@@ -1,0 +1,16 @@
+characters = {
+	UTA_merril_jessop = {
+		name = "Merril Jessop" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Merril_Jessop
+			}
+		}
+		country_leader = {
+			ideology = reactionary_subtype
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

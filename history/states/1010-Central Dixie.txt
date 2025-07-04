@@ -1,0 +1,15 @@
+state={
+	id=1010
+	name="STATE_1010"
+	provinces={
+		913 968 1582 1758 4594 5090 7547 7558 7643 7791 8014 9727 9779 9949 9967 10468 10495 10657 10909 12637 12803 
+	}
+	
+	history={
+		owner = DIX
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

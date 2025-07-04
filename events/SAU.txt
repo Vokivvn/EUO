@@ -24,17 +24,39 @@ country_event = { #Elections
 	option = { #Rosenberg
 		name = SAU.40.a
 		hidden_effect = {
-		SAU = {
+		HEJ = {
+			transfer_state = 856
 			declare_war_on = {
-    			target = OMA
+    			target = SAU
+    			type = annex_everything
+			}
+		}
+		SRE = {
+			transfer_state = 854
+			transfer_state = 855
+			declare_war_on = {
+    			target = SAU
     			type = annex_everything
 			}
 			declare_war_on = {
-    			target = DHO
+    			target = HEJ
+    			type = annex_everything
+			}
+		}
+		FAR = {
+			transfer_state = 857
+			transfer_state = 1006
+			transfer_state = 1007
+			declare_war_on = {
+    			target = SAU
     			type = annex_everything
 			}
 			declare_war_on = {
-    			target = ADE
+    			target = HEJ
+    			type = annex_everything
+			}
+			declare_war_on = {
+    			target = SRE
     			type = annex_everything
 			}
 		}

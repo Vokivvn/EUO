@@ -10,6 +10,11 @@ state={
 	provinces={
 		1696 1762 4705 4766 4837 7751 7816 7835 7860 10528 10658 12507 13366 
 	}
+	
+	history={
+		owner = SOV
+	}
+	
 	manpower=370893
 	buildings_max_level_factor=1.000
 	state_category=rural
