@@ -10,6 +10,9 @@ state={
 	
 	history={
 		owner = DNV
+		victory_points = {
+			1827 5 
+		}
 	}
 	
 	manpower=1035790

@@ -13,4 +13,4 @@ set_popularities = {
 	syncretism = 100
 }
 
-recruit_character = SPR_guy
+recruit_character = SPR_jose_lazaro_ibanez

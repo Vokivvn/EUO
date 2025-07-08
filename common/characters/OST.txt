@@ -1,9 +1,9 @@
 characters = {
-	OST_igors_siskins = {
-		name = "Igors Šiškins" 
+	OST_erwin_kemna = {
+		name = "Erwin Kemna" 
 		portraits = {
 			civilian = {
-				large = GFX_portrait_igors_siskins
+				large = GFX_portrait_Erwin_Kemna
 			}
 		}
 		country_leader = {

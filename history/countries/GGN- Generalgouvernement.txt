@@ -13,4 +13,4 @@ set_popularities = {
 	national_socialism = 100
 }
 
-recruit_character = GGN_guy
+recruit_character = GGN_horst_mahler

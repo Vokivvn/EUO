@@ -6,7 +6,7 @@ state={
 	state_category=rural
 
 	history={
-		owner = POR
+		owner = ANG
 		buildings = {
 			infrastructure = 1
 			8248 = {
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		5158 7548 8248 12981 
+		5158 7548 8219 8248 12981 
 	}
 
 	buildings_max_level_factor=1.000

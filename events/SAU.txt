@@ -58,7 +58,28 @@ country_event = { #Elections
 			declare_war_on = {
     			target = SRE
     			type = annex_everything
+				}
 			}
 		}
+	}
+}
+
+country_event = { #Intro 
+	id = SAU.41
+	title = SAU.41.t
+	desc = SAU.41.d
+	picture = GFX_report_event_chinese_soldiers_01
+
+	is_triggered_only = yes
+	
+	option = { #Puppetry
+		name = SAU.41.a
+		hidden_effect = {
+		leave_faction
+		}
+		declare_war_on = {
+    		target = RAK
+    		type = annex_everything
+		} 
 	}
 }

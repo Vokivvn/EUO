@@ -1,0 +1,16 @@
+characters = {
+	WSI_nikolay_skorodumov = {
+		name = "Nikolay Skorodumov" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Nikolay_Skorodumov
+			}
+		}
+		country_leader = {
+			ideology = reactionary_subtype
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

@@ -1,0 +1,16 @@
+characters = {
+	PAC_jason_adams_tonis = {
+		name = "Jason Adams-Tonis" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Jason_Adams_Tonis
+			}
+		}
+		country_leader = {
+			ideology = syncretism_subtype
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

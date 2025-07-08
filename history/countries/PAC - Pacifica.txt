@@ -13,4 +13,4 @@ set_popularities = {
 	syncretism = 100
 }
 
-recruit_character = PAC_guy
+recruit_character = PAC_jason_adams_tonis

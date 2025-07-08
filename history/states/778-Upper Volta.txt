@@ -4,6 +4,11 @@ state={
 	provinces={
 		7983 8071 10836 
 	}
+	
+	history={
+		owner = VOL
+	}
+	
 	manpower=3186184
 	buildings_max_level_factor=1.000
 	state_category=pastoral

@@ -1,0 +1,15 @@
+﻿focus_tree = {
+	id = JAP_Intro
+	country = {
+		factor = 0
+		modifier = {
+			add = 20
+			tag = JAP
+		}
+	}
+	default = no
+	shared_focus = JAP_the_new_year
+	initial_show_position = {
+		focus = JAP_the_new_year
+	}
+}

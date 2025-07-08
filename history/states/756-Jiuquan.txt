@@ -4,6 +4,11 @@ state={
 	provinces={
 		1778 5076 7971 12596 12820 
 	}
+	
+	history={
+		owner = KUM
+	}
+	
 	manpower=1000000
 	buildings_max_level_factor=1.000
 	state_category=wasteland

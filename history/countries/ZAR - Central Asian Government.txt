@@ -3,14 +3,14 @@ capital = 88 # Krakow
 oob = "GGN_2010"
 
 set_politics = {
-	ruling_party = authoritarianism
+	ruling_party = autocratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	authoritarianism = 100
+	autocratic = 100
 }
 
-recruit_character = GGN_guy
+recruit_character = ZAR_harald_kujat

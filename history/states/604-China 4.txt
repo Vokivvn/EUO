@@ -4,6 +4,11 @@ state={
 	provinces={
 		7940 7997 10834 10865 12890 
 	}
+	
+	history={
+		owner = PSC
+	}
+	
 	manpower=1196100
 	buildings_max_level_factor=1.000
 	state_category=rural

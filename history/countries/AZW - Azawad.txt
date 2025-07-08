@@ -1,0 +1,8 @@
+﻿capital = 556
+
+2010.1.1 = {
+
+	declare_war_on = {
+		target = MRT
+		type = annex_everything
+	}

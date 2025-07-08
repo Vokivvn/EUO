@@ -21,8 +21,8 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_portrait_igors_siskins"
-		texturefile = "gfx/leaders/OST/Portrait_OST_Igors_Siskins.png"
+		name = "GFX_portrait_Erwin_Kemna"
+		texturefile = "gfx/leaders/OST/Portrait_OST_Erwin_Kemna.png"
 	}
 	
 	spriteType = {
@@ -88,6 +88,41 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_Merril_Jessop"
 		texturefile = "gfx/leaders/UTA/Portrait_UTA_Merril_Jessop.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_Jose_Lazaro_Ibanez"
+		texturefile = "gfx/leaders/SPR/Portrait_SPR_Jose_Lazaro_Ibanez.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_Jason_Adams_Tonis"
+		texturefile = "gfx/leaders/PAC/Portrait_PAC_Jason_Adams_Tonis.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_Harald_Neubauer"
+		texturefile = "gfx/leaders/KAU/Portrait_KAU_Harald_Neubauer.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_Horst_Mahler"
+		texturefile = "gfx/leaders/GGN/Portrait_GGN_Horst_Mahler.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_Andreas_Bilezkyj"
+		texturefile = "gfx/leaders/UKR/Portrait_UKR_Andreas_Bilezkyj.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_Harald_Kujat"
+		texturefile = "gfx/leaders/ZAR/Portrait_ZAR_Harald_Kujat.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_Nikolay_Skorodumov"
+		texturefile = "gfx/leaders/WSI/Portrait_WSI_Nikolay_Skorodumov.png"
 	}
 	
 }

@@ -13,4 +13,41 @@ set_popularities = {
 	reactionary = 100
 }
 
+2010.1.1 = {
+
+	declare_war_on = {
+		target = TUA
+		type = annex_everything
+	}
+	
+	declare_war_on = {
+		target = NGR
+		type = annex_everything
+	}
+	
+	declare_war_on = {
+		target = VOL
+		type = annex_everything
+	}
+	
+	declare_war_on = {
+		target = MAS
+		type = annex_everything
+	}
+	
+	declare_war_on = {
+		target = MLI
+		type = annex_everything
+	}
+	
+	declare_war_on = {
+		target = IVO
+		type = annex_everything
+	}
+	
+	declare_war_on = {
+		target = AZW
+		type = annex_everything
+	}
+
 recruit_character = ISA_adnan_abu_walid_al_sahrawi

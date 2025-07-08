@@ -2,8 +2,13 @@ state={
 	id=515
 	name="STATE_515"
 	provinces={
-		2068 4913 7939 8028 8116 10758 10917 
+		2068 4913 7939 8028 8116 10758 10805 10917 
 	}
+	
+	history={
+		owner = TUA
+	}
+	
 	manpower=1456356
 	buildings_max_level_factor=1.000
 	state_category=wasteland

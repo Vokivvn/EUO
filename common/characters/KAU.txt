@@ -1,0 +1,16 @@
+characters = {
+	KAU_harald_neubauer = {
+		name = "Harald Neubauer" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Harald_Neubauer
+			}
+		}
+		country_leader = {
+			ideology = national_socialism_subtype
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

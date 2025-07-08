@@ -2,8 +2,18 @@ state={
 	id=556
 	name="STATE_556"
 	provinces={
-		4927 5045 12751 12794 12838 
+		4927 5045 12751 12794 12838 13371 
 	}
+	
+	history={
+		owner = MAS
+		2009.1.1 = {
+			ISA = {
+				set_province_controller = 13371
+			}
+		}
+	}
+	
 	manpower=1662391
 	buildings_max_level_factor=1.000
 	state_category=rural

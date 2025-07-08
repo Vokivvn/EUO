@@ -4,6 +4,11 @@ state={
 	provinces={
 		1115 1897 7943 10725 10838 10868 
 	}
+	
+	history={
+		owner = AZW
+	}
+	
 	manpower=79243
 	buildings_max_level_factor=1.000
 	state_category=wasteland

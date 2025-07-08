@@ -2,8 +2,13 @@ state={
 	id=760
 	name="STATE_760"
 	provinces={
-		1838 4704 4843 7732 10839 12524 12598 12671 
+		1698 1838 4704 4843 4947 5736 7732 10614 10839 12524 12598 12656 12671 
 	}
+	
+	history={
+		owner = KUM
+	}
+	
 	manpower=700000
 	buildings_max_level_factor=1.000
 	state_category=rural

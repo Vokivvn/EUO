@@ -1,0 +1,15 @@
+state={
+	id=1015
+	name="STATE_1015"
+	provinces={
+		1975 12707 
+	}
+	
+	history={
+		owner = ISA
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+characters = {
+	ZAR_harald_kujat = {
+		name = "Harald Kujat" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Harald_Kujat
+			}
+		}
+		country_leader = {
+			ideology = autocratic_subtype
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	
