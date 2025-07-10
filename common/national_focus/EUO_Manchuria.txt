@@ -1,0 +1,15 @@
+﻿focus_tree = {
+	id = MAN_Intro
+	country = {
+		factor = 0
+		modifier = {
+			add = 20
+			tag = MAN
+		}
+	}
+	default = no
+	shared_focus = MAN_the_new_year
+	initial_show_position = {
+		focus = MAN_the_new_year
+	}
+}

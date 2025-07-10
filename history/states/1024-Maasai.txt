@@ -1,0 +1,15 @@
+state={
+	id=1024
+	name="STATE_1024"
+	provinces={
+		2206 5196 5224 10860 11017 
+	}
+	
+	history={
+		owner = MAA
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

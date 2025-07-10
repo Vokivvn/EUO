@@ -4,6 +4,11 @@ state={
 	provinces={
 		2216 7842 10929 
 	}
+	
+	history={
+		owner = ZIM
+	}
+	
 	manpower=1171336
 	buildings_max_level_factor=1.000
 	state_category=pastoral

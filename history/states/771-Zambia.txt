@@ -8,6 +8,11 @@ state={
 	provinces={
 		1846 5199 5221 7872 10594 10930 12504 12677 13173 
 	}
+	
+	history={
+		owner = ZAM
+	}
+	
 	manpower=690045
 	buildings_max_level_factor=1.000
 	state_category=rural

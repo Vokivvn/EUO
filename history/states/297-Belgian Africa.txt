@@ -6,9 +6,8 @@ state=
 	
 	state_category = enclave
 	
-	history=
-	{
-		owner = CAR
+	history={
+		owner = COG
 		add_core_of = EQG
 		victory_points = {
 			1903 1 

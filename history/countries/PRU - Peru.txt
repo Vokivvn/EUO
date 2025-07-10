@@ -15,5 +15,6 @@ set_popularities = {
 
 create_faction = inkan_international
 add_to_faction = PRU
+add_to_faction = BRA
 
 recruit_character = PRU_isaac_humala

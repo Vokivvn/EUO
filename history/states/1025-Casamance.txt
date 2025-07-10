@@ -1,0 +1,15 @@
+state={
+	id=1025
+	name="STATE_1025"
+	provinces={
+		12834 
+	}
+	
+	history={
+		owner = CSM
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

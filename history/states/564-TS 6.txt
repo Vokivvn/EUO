@@ -12,7 +12,7 @@ state={
 	}
 	
 	history={
-		owner = SOV
+		owner = BYA
 	}
 	
 	manpower=370893

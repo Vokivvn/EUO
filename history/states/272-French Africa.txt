@@ -5,8 +5,13 @@ state={
 		steel=3.000
 	}
 	provinces={
-		2100 4948 7972 8015 12710 12834 
+		2100 4948 7972 8015 12710 
 	}
+	
+	history={
+		owner = SEN
+	}
+	
 	manpower=1638000
 	buildings_max_level_factor=1.000
 	state_category=pastoral

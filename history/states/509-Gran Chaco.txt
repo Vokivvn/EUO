@@ -1,34 +1,20 @@
-state = {
-	id = 509
-	name = "STATE_509" # Chaco Australis
-	manpower = 704241
-	
-	state_category = rural
-	
-	resources = {
-		tungsten = 30 # was: 46, then 35
-		steel = 4 # was: 8, then 6
+state={
+	id=509
+	name="STATE_509"
+	resources={
+		tungsten=30.000
+		steel=4.000
 	}
-
-	history = {
-
+	provinces={
+		2106 2208 5143 5213 8169 8255 10986 
+	}
+	
+	history={
 		owner = ARG
-		add_core_of = ARG
-
-		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-		}
-
-		victory_points = {
-			2106 1 
-		}
-		
 	}
-
-	provinces = {
-		2106 2208 5143 5213 8169 8255 10965 10986  
-	}
-
-	local_supplies = 6.0 
+	
+	manpower=704241
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=6.000
 }

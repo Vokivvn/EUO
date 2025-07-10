@@ -1,0 +1,15 @@
+state={
+	id=1022
+	name="STATE_1022"
+	provinces={
+		8034 10831 
+	}
+	
+	history={
+		owner = BIA
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

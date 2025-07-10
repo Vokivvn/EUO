@@ -2,11 +2,11 @@ state={
 	id=574
 	name="STATE_574"
 	provinces={
-		1852 4855 7765 7817 7889 10589 12565 12611 
+		1852 7765 7817 10589 12611 
 	}
 
 	history={
-		owner = SOV
+		owner = YAK
 	}
 	
 	manpower=407866

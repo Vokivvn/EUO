@@ -13,8 +13,8 @@ state = {
 
 	history = {
 
-		owner = BRA
-		add_core_of = BRA
+		owner = GOI
+		add_core_of = GOI
 
 		buildings = {
 			infrastructure = 1
@@ -27,7 +27,7 @@ state = {
 	}
 
 	provinces = {
-		5115 5148 5208 8140 12959 12987 
+		5115 5208 8140 12959 12987 
 	}
 
 	buildings_max_level_factor = 1.000

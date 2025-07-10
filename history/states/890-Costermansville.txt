@@ -10,8 +10,8 @@ state = {
 	
 	history = {
 
-		owner = CAR
-		add_core_of = CAR
+		owner = COG
+		add_core_of = COG
 
 		IF = {
 			limit = {

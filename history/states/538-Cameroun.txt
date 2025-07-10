@@ -10,7 +10,7 @@ state = {
 
 	history = {
 
-		owner = CAR
+		owner = COG
 		add_core_of = COG
 
 		IF = {
